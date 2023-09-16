@@ -3,7 +3,9 @@ html {
     background-color: white;
 }
 main{
-    align-self: center;
+    margin:0 auto;
+    width:1000px;
+    text-align: left;
 }
 #edu{
     margin-top: 50px;
@@ -18,4 +20,10 @@ main{
 }
 #links{
     width: 200px;
+}
+#languages img,#stacks img,#linkicon img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    text-align: center;
 }
