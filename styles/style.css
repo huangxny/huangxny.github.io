@@ -1,29 +1,52 @@
 html {
     font-family: 'Roboto', sans-serif;
-    background-color: white;
+}
+body{
+    background-color: #35363a;
 }
 main{
-    margin:0 auto;
-    width:1000px;
+    margin: 0 auto;
+    width: 1000px;
+    min-height: 100vh;
     text-align: left;
+    background-color: lightgray;
 }
-#edu{
-    margin-top: 50px;
+footer {
+    text-align: center;
+    background-color: grey;
+    color: #EAF6F6;
+    height: 50px;
+    padding-top: 15px;
+    bottom: 0;
+    width: 1000px;
 }
-#greeting,#title {
-    margin-top: 50px;
-    margin-left: 60px;
+
+#title, #commentBoard {
+    padding: 50px;
 }
-#bonus{
-    margin-top: 50px;
-    margin-left: 60px;
-}
-#links{
+
+#linkList {
     width: 200px;
 }
-#languages img,#stacks img,#linkicon img{
+.col-8, .col-4{
+    overflow: auto;
+}
+#entrance {
+    padding: 30px;
+}
+
+#languages img, #stacks img, #linkIcons img {
     width: 150px;
     height: 150px;
     object-fit: contain;
     text-align: center;
 }
+.commentBox{
+    border: 1px solid grey;
+    padding: 20px 20px 15px;
+}
+/*
+* {
+    border: 1px solid red;
+}
+*/
