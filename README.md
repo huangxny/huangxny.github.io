@@ -11,7 +11,9 @@ Tech Requirement: Browser support HTML5 & CSS & JavaScript
 
 How to run: Download and unzip into a single folder, and open index.html with a browser. 
 
-Design Doc: https://www.figma.com/file/6nJv94SmDCgT55hzKcARjp/project1-design?type=design&node-id=0%3A1&mode=design&t=uc5Js5pfohHIBTvX-1
+Design Doc: https://docs.google.com/document/d/1MI1U3uXQ7hSnohWNN46p7i30QNzD67pgosconcVljkQ/edit?usp=sharing
+
+Presentation Slide: https://docs.google.com/presentation/d/1Jw-KQAR_xViUs5IiS-9LWfpr71IGnyxKHzsNmHQkZD0/edit?usp=sharing
 
 Demo: https://huangxny.github.io/personal-page
 
