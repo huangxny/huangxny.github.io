@@ -17,14 +17,14 @@ Demo: https://huangxny.github.io/personal-page
 
 Screen Shot:
 
-![Main Page.png](Screen%20Shots%2FMain%20Page.png)
+![Main Page.png](Screen-Shots%2FMain%20Page.png)
 
-![Education.png](Screen%20Shots%2FEducation.png)
+![Education.png](Screen-Shots%2FEducation.png)
 
-![Skills.png](Screen%20Shots%2FSkills.png)
+![Skills.png](Screen-Shots%2FSkills.png)
 
-![About me.png](Screen%20Shots%2FAbout%20me.png)
+![About me.png](Screen-Shots%2FAbout%20me.png)
 
-![Links.png](Screen%20Shots%2FLinks.png)
+![Links.png](Screen-Shots%2FLinks.png)
 
-![Comment.png](Screen%20Shots%2FComment.png)
+![Comment.png](Screen-Shots%2FComment.png)
