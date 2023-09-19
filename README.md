@@ -1,7 +1,7 @@
 # my_personal_page
 
 
-Author: Xinyuan Huang
+Author: _Xinyuan Huang_
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2023/
 
