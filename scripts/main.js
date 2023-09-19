@@ -1,7 +1,7 @@
-const submitBtn = document.getElementById("submitBtn");
-const userName = document.getElementById("user");
-const comment = document.getElementById("comment");
-const commentDisplay = document.getElementById("commentDisplay");
+const submitBtn = document.querySelector("#submitBtn");
+const userName = document.querySelector("#user");
+const comment = document.querySelector("#comment");
+const commentDisplay = document.querySelector("#commentDisplay");
 
 let commentArray = [];
 displayComment();
@@ -16,7 +16,7 @@ function submitComment() {
     commentArray.push(newComment);
     resetForm();
     displayComment();
-  } else alert("input cannot be empty!");
+  } else alert("Input cannot be empty!");
 }
 function resetForm() {
   userName.value = "";
@@ -38,6 +38,6 @@ function displayComment() {
     );
   }
 }
-submitBtn.onclick = () => {
+submitBtn.addEventListener("click", () =>{
   submitComment();
-};
+});
