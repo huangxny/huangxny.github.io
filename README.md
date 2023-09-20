@@ -15,6 +15,8 @@ Design Doc: https://docs.google.com/document/d/1MI1U3uXQ7hSnohWNN46p7i30QNzD67pg
 
 Presentation Slide: https://docs.google.com/presentation/d/1Jw-KQAR_xViUs5IiS-9LWfpr71IGnyxKHzsNmHQkZD0/edit?usp=sharing
 
+Presentation & Demo Video: https://drive.google.com/file/d/1HwkPLbNDJXaPFLUBziiqeWsqqjZ16SZz/view?usp=sharing
+
 Demo: https://huangxny.github.io/personal-page
 
 Screen Shot:
