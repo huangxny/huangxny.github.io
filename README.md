@@ -32,3 +32,8 @@ Screen Shot:
 ![Links.png](Screen-Shots%2FLinks.png)
 
 ![Comment.png](Screen-Shots%2FComment.png)
+
+
+
+
+comment: Hello Xinyuan, I must say your personal webpage is truly impressive! It features a user-friendly menu bar with various options for navigating to different sections. I found the comment board on the homepage particularly intriguing. The skills page, with its array of icons representing programming languages and tech stacks, adds a fantastic touch to the overall design. Additionally, the 'About Me' page provides insightful details about your story and hobbies, allowing the audience to get to know you better. All in all, your personal project page is excellently executed.
